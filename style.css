@@ -229,3 +229,20 @@ footer {
         flex-direction: column; /* Empilha os elementos */
     }
 }
+}
+@media (max-width: 768px) {
+    .pesquisar {
+        flex-direction: column; /* Empilha os elementos */
+        width: 30rem; /* Largura dos inputs */
+    }
+}
+@media (max-width: 768px) {
+    container {
+      width: 60%;
+    }
+  }
+  @media (max-width: 768px) {
+  .resultados-pesquisa {
+    width: 30rem; /* Largura máxima da caixa de resultados */
+  }
+}
