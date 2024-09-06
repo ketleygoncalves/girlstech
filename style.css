@@ -246,3 +246,48 @@ footer {
     width: 30rem; /* Largura máxima da caixa de resultados */
   }
 }
+/* Para telas menores */
+@media (max-width: 768px) {
+    .resultados-pesquisa {
+        width: 90%; /* Altere para porcentagem */
+        max-width: 30rem; /* Reduza a largura máxima */
+    }
+}
+
+/* Para telas muito pequenas, como celulares */
+@media (max-width: 480px) {
+    .resultados-pesquisa {
+        width: 100%; /* Ocupe toda a largura da tela */
+        max-width: none; /* Remove a largura máxima */
+    }
+}
+/* Para telas menores */
+@media (max-width: 768px) {
+    .resultados-pesquisa {
+        width: 90%; /* Altere para porcentagem */
+        max-width: 30rem; /* Reduza a largura máxima */
+    }
+}
+
+/* Para telas muito pequenas, como celulares */
+@media (max-width: 480px) {
+    .resultados-pesquisa {
+        width: 100%; /* Ocupe toda a largura da tela */
+        max-width: none; /* Remove a largura máxima */
+    }
+}
+* Para telas menores */
+@media (max-width: 768px) {
+    .resultados-pesquisa {
+        width: 90%; /* Altere para porcentagem */
+        max-width: 30rem; /* Reduza a largura máxima */
+    }
+}
+
+/* Para telas muito pequenas, como celulares */
+@media (max-width: 480px) {
+    .resultados-pesquisa {
+        width: 100%; /* Ocupe toda a largura da tela */
+        max-width: none; /* Remove a largura máxima */
+    }
+}
