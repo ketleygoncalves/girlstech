@@ -237,7 +237,7 @@ footer {
     }
 }
 @media (max-width: 768px) {
-    container {
+    section {
       width: 60%;
     }
   }
