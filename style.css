@@ -209,3 +209,23 @@ footer {
         /* Tamanho da fonte do rodapé em telas pequenas */
     }
 }
+
+/* Responsividade para celulares */
+@media (max-width: 768px) {
+    body {
+        background-image: url('img/background_mobile.jpg');
+        /* Outros estilos para o mobile */
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body {
+        background-image: url('img/background_mobile.jpg');
+        /* Outros estilos para o tablet */
+    }
+}
+@media (max-width: 768px) {
+    .pesquisar {
+        flex-direction: column; /* Empilha os elementos */
+    }
+}
