@@ -174,7 +174,7 @@ footer {
 @media (max-width: 480px) {
 
     h1 {
-        font-size: 1.8rem;
+        font-size: 2rem;
         /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem;
         /* Espaçamento entre letras em telas pequenas */
