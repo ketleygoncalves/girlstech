@@ -2,7 +2,7 @@
 
 ## O que essa aplicação faz?
 
-Esta aplicação é uma homenagem às mulheres que fizeram história na tecnologia. Ela permite que você pesquise e descubra mais sobre essas incríveis personalidades que moldaram o mundo da computação e da ciência.
+Esta aplicação é uma homenagem às mulheres que fizeram e fazem história na tecnologia. Ela permite que você pesquise e descubra mais sobre essas incríveis personalidades que moldaram o mundo da computação e da ciência.
 
 ## Como ela funciona?
 
