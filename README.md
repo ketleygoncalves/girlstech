@@ -29,4 +29,6 @@ Dúvidas?
 Se tiver alguma dúvida, abra uma issue aqui no GitHub ou entre em contato por email.
 
 ![image](https://github.com/user-attachments/assets/e421be2d-13d5-4748-8498-130935158c15)
+![image](https://github.com/user-attachments/assets/44c670e1-6eb4-4d05-8069-a2f63f71e6d1)
+
 Confira o projeto aqui https://girlstech.vercel.app/
