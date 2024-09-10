@@ -6,7 +6,7 @@ Esta aplicação é uma homenagem às mulheres que fizeram e fazem história na 
 
 ## Como ela funciona?
 
-1. **Digite e pesquise:** Você digita o nome da mulher que deseja conhecer na caixinha de pesquisa.
+1. **Digite e pesquise:** Você digita um nome ou area de estudo em tecnologia que deseja conhecer na caixinha de pesquisa.
 2. **Mágica acontece:** A aplicação busca no banco de dados (presente no arquivo `dados.js`) todas as informações relacionadas ao nome digitado.
 3. **Resultados na tela:** Se a aplicação encontrar algo, ela exibirá um card com o nome, uma breve descrição e um link para mais informações. Se não encontrar, você será notificado.
 
